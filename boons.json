@@ -1,0 +1,65 @@
+{
+  "child of chaos": {
+    "display_name": "Child of Chaos",
+    "desc": "The Wayward Heir lends your attacks a 10% chance to deliver a random battlerage affliction to your target.",
+    "rarity": "rare",
+    "flavour": "I have absolutely no idea whether this will help. Isn't that exciting?",
+    "can_echo": false
+  },
+  "truther": {
+    "display_name": "Truther",
+    "desc": "You are immune to the paranoia and hallucinations afflictions.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "corrupted lineage": {
+    "display_name": "Corrupted Lineage",
+    "desc": "You may now select boons from any race, not solely those of your own race.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "restoration": {
+    "display_name": "Restoration",
+    "desc": "Restore your resources instead.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "baron's bro": {
+    "display_name": "Baron's Bro",
+    "desc": "Balam Agab's boon. Cooldown: 20 seconds.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "temporal anomaly": {
+    "display_name": "Temporal Anomaly",
+    "desc": "Proc-based effect with a 5 second cooldown.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "fae-lapse": {
+    "display_name": "Fae-Lapse",
+    "desc": "Proc-based effect with a 5 second cooldown.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "cleave": {
+    "display_name": "Cleave",
+    "desc": "An AoE strike. Fails if only one denizen is present.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "reckless rage": {
+    "display_name": "Reckless Rage",
+    "desc": "Prevents blood shields and regular shields.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  }
+}
