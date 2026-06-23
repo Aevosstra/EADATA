@@ -1,4 +1,172 @@
 {
+  "abundance": {
+    "display_name": "Abundance",
+    "desc": "Defeating a denizen has a 10% chance of granting you the panacea defence for 25 seconds.",
+    "rarity": "common",
+    "flavour": "Nature is the best medicine.",
+    "can_echo": false
+  },
+  "academician": {
+    "display_name": "Academician",
+    "desc": "You are immune to the stupidity affliction.",
+    "rarity": "legendary",
+    "flavour": "The mind is sharpened each time truth is chosen over ease.",
+    "can_echo": false
+  },
+  "acrobat": {
+    "display_name": "Acrobat",
+    "desc": "Tumbling completes instantly but incurs a 50% increased balance cost.",
+    "rarity": "common",
+    "flavour": "How do they bend like that?",
+    "can_echo": false
+  },
+  "adroit": {
+    "display_name": "Adroit",
+    "desc": "You are immune to the clumsiness affliction.",
+    "rarity": "common",
+    "flavour": "None have worked wonders so sublime as Phaestus, His hands the most precise and dexterous in all Creation's vast expanse.",
+    "can_echo": false
+  },
+  "alacritous": {
+    "display_name": "Alacritous",
+    "desc": "You are immune to the aeon affliction.",
+    "rarity": "rare",
+    "flavour": "It is the dream of the young to live forever, but the wish of the old to pass in peace.",
+    "can_echo": false
+  },
+  "antidexterous": {
+    "display_name": "Antidexterous",
+    "desc": "There is a 5% chance you make the denizen you are attacking clumsy for 5 seconds.",
+    "rarity": "uncommon",
+    "flavour": "Some do wonderful things with their hands. Some should keep their hands to themselves.",
+    "can_echo": true
+  },
+  "argent scales": {
+    "display_name": "Argent Scales",
+    "desc": "Gain 25% resistance to electric damage.",
+    "rarity": "common",
+    "flavour": "The thunder of Krenindala's lost sky.",
+    "can_echo": true
+  },
+  "ascetic": {
+    "display_name": "Ascetic",
+    "desc": "You are immune to the addiction affliction.",
+    "rarity": "common",
+    "flavour": "I'll just have one...",
+    "can_echo": false
+  },
+  "ashaxei's mirror": {
+    "display_name": "Ashaxei's Mirror",
+    "desc": "When taking elemental damage greater than 20% of your health, gain 1 reflections.",
+    "rarity": "uncommon",
+    "flavour": "In the seventh century after Seleucar's fall, the White Dragon fell to the machinations of the vile Dala'myrr, perishing over desert sands.",
+    "can_echo": false
+  },
+  "aurum scales": {
+    "display_name": "Aurum Scales",
+    "desc": "Gain 25% resistance to psychic damage.",
+    "rarity": "common",
+    "flavour": "Ever the greatest minds of Dragonkind.",
+    "can_echo": true
+  },
+  "azure scales": {
+    "display_name": "Azure Scales",
+    "desc": "Gain 25% resistance to cold damage.",
+    "rarity": "common",
+    "flavour": "Ice born in the blackness about Krenindala's very sphere.",
+    "can_echo": true
+  },
+  "battle-scarred": {
+    "display_name": "Battle-Scarred",
+    "desc": "The memory of the War Veil grants 10% physical resistance.",
+    "rarity": "common",
+    "flavour": "Veil and shroud, a guarding Ward to War.",
+    "can_echo": true
+  },
+  "battlemaster's fury": {
+    "display_name": "Battlemaster's Fury",
+    "desc": "Your balance recovers 30% faster, but you can no longer be healed above 30% health.",
+    "rarity": "rare",
+    "flavour": "It is said that Yen-Sorte was the finest mortal combatant that ever lived, but even he paled before Matsuhama's terrible disappointment.",
+    "can_echo": false
+  },
+  "beeline": {
+    "display_name": "Beeline",
+    "desc": "You may now utilise prism tattoos against non-boss denizens.",
+    "rarity": "common",
+    "flavour": "Fine, I will come to you.",
+    "can_echo": false
+  },
+  "blood pact": {
+    "display_name": "Blood Pact",
+    "desc": "You deal 25% more damage but all mana costs now cost health.",
+    "rarity": "uncommon",
+    "flavour": "The balance in my soul shifted.",
+    "can_echo": true
+  },
+  "bloodscent": {
+    "display_name": "Bloodscent",
+    "desc": "You sense out your prey upon entering a ripple.",
+    "rarity": "common",
+    "flavour": "Iron laced the air with heady drafts of crimson personage, each sanguine note unique.",
+    "can_echo": false
+  },
+  "bodybuilder": {
+    "display_name": "Bodybuilder",
+    "desc": "Each kill on a denizen grants you 3 additional maximum health but you lose 2 points of maximum mana.",
+    "rarity": "rare",
+    "flavour": "It is the curse of youth to have a strong body and weak mind.",
+    "can_echo": true
+  },
+  "borrowed power": {
+    "display_name": "Borrowed Power",
+    "desc": "Your critical hits can now reach plane-razing level without requiring paragons or the Psion class. This does not stack with those effects, however.",
+    "rarity": "rare",
+    "flavour": "The very fabric of the Planes will yield.",
+    "can_echo": false
+  },
+  "boulder": {
+    "display_name": "Boulder",
+    "desc": "You can no longer move normally, but when tumbling into a room, you will deal significant damage to all denizens present.",
+    "rarity": "rare",
+    "flavour": "Some unstoppable forces have yet to meet their immovable object. But Heroes do not have time for metaphors.",
+    "can_echo": false
+  },
+  "brawler": {
+    "display_name": "Brawler",
+    "desc": "Your basic punches, kicks, and headslams deal 1000% more damage.",
+    "rarity": "rare",
+    "flavour": "They were forced to train their bodies to martial perfection; their hands and feet became deadly weapons in and of themselves.",
+    "can_echo": false
+  },
+  "candour": {
+    "display_name": "Candour",
+    "desc": "You are immune to the blackout affliction by the clarity of the Lightbringer.",
+    "rarity": "rare",
+    "flavour": "Light is revelation and redemption. It illuminates the true nature of life. As it is and as it should be.",
+    "can_echo": false
+  },
+  "careless whisperer": {
+    "display_name": "Careless Whisperer",
+    "desc": "You are immune to masochism, hallucinations, and paranoia, and you always walk with a zealous warding against the Outer Cold.",
+    "rarity": "rare",
+    "flavour": "With a whisper, the blaze lit up the heavens, and all that dwelt in dark beneath the sky was scourged clean.",
+    "can_echo": false
+  },
+  "cavalry": {
+    "display_name": "Cavalry",
+    "desc": "When you are mounted, you gain 2 celerity and you deal 10% more damage, but you can no longer walk normally.",
+    "rarity": "common",
+    "flavour": "In the fashion of Seleucar's Twelve.",
+    "can_echo": true
+  },
+  "ceylon's resolve": {
+    "display_name": "Ceylon's Resolve",
+    "desc": "Your Maya figurine is now effective on all critical hits.",
+    "rarity": "legendary",
+    "flavour": "The steadfast heart does not ask whether fortune favours it or not. It simply refuses to surrender.",
+    "can_echo": false
+  },
   "child of chaos": {
     "display_name": "Child of Chaos",
     "desc": "The Wayward Heir lends your attacks a 10% chance to deliver a random battlerage affliction to your target.",
@@ -6,39 +174,914 @@
     "flavour": "I have absolutely no idea whether this will help. Isn't that exciting?",
     "can_echo": false
   },
-  "truther": {
-    "display_name": "Truther",
-    "desc": "You are immune to the paranoia and hallucinations afflictions.",
-    "rarity": "unknown",
-    "flavour": "",
-    "can_echo": null
+  "cleave": {
+    "display_name": "Cleave",
+    "desc": "Your attacks deal a small amount of splash damage to another random denizen in the location.",
+    "rarity": "rare",
+    "flavour": "And that one too.",
+    "can_echo": true
+  },
+  "coarse flesh": {
+    "display_name": "Coarse Flesh",
+    "desc": "You are immune to slickness, but suffer permanent timeflux.",
+    "rarity": "rare",
+    "flavour": "It's just a skin condition.",
+    "can_echo": false
+  },
+  "conqueror": {
+    "display_name": "Conqueror",
+    "desc": "The unflinching will of Malevolence causes you to deal 15% more damage to enemies whose health percent is lower than yours.",
+    "rarity": "rare",
+    "flavour": "Do not mistake this for generosity.",
+    "can_echo": false
+  },
+  "convocation": {
+    "display_name": "Convocation",
+    "desc": "You may now use brazier tattoos on non-boss denizens, but your brazier tattoo incurs a 1 minutes cooldown.",
+    "rarity": "common",
+    "flavour": "Won't you come to me?",
+    "can_echo": false
+  },
+  "corrupted blood": {
+    "display_name": "Corrupted Blood",
+    "desc": "Your poison resistance is increased by 66% but you suffer permanent nausea.",
+    "rarity": "common",
+    "flavour": "Just a stomach bug.",
+    "can_echo": false
+  },
+  "corrupted breath": {
+    "display_name": "Corrupted Breath",
+    "desc": "Your asphyxiation resistance is increased by 66% but you suffer permanent manaleech.",
+    "rarity": "common",
+    "flavour": "I never liked the taste of mint.",
+    "can_echo": false
+  },
+  "corrupted cold": {
+    "display_name": "Corrupted Cold",
+    "desc": "Your cold resistance is increased by 66%, but you suffer permanent dehydration and tenderskin.",
+    "rarity": "common",
+    "flavour": "Next year I'm going to Zanzibaar instead.",
+    "can_echo": false
+  },
+  "corrupted current": {
+    "display_name": "Corrupted Current",
+    "desc": "Your electric resistance is increased by 66% but you suffer permanent fulmination.",
+    "rarity": "common",
+    "flavour": "Why do I feel so tingly all over?",
+    "can_echo": false
+  },
+  "corrupted flesh": {
+    "display_name": "Corrupted Flesh",
+    "desc": "Your fire resistance is increased by 66% but you suffer permanent itching.",
+    "rarity": "common",
+    "flavour": "I'm never going to the Brass Lantern again.",
+    "can_echo": false
   },
   "corrupted lineage": {
     "display_name": "Corrupted Lineage",
     "desc": "You may now select boons from any race, not solely those of your own race.",
-    "rarity": "unknown",
-    "flavour": "",
-    "can_echo": null
+    "rarity": "rare",
+    "flavour": "Mortality was cursed the moment Maya's whelps were allowed to live. It has been downhill ever since.",
+    "can_echo": false
+  },
+  "corrupted mind": {
+    "display_name": "Corrupted Mind",
+    "desc": "Your psychic resistance is increased by 66% but you suffer permanent guilt.",
+    "rarity": "common",
+    "flavour": "It's not my fault!",
+    "can_echo": false
+  },
+  "crazy horses": {
+    "display_name": "Crazy Horses",
+    "desc": "Commanding your steed to trample will deal massive blunt damage to all denizens present, but doing so will cause you to suffer a severe stun and lose 20% of your endurance.",
+    "rarity": "uncommon",
+    "flavour": "The mounted Aldar cut off his escape and he fought like a cornered rat...",
+    "can_echo": false
+  },
+  "creville's legacy": {
+    "display_name": "Creville's Legacy",
+    "desc": "You attack 20% faster but you have incurable dementia.",
+    "rarity": "common",
+    "flavour": "Faster, faster, why am I faster? Faster! Who are you? Faster! Was I always this fast?",
+    "can_echo": true
+  },
+  "crimson scales": {
+    "display_name": "Crimson Scales",
+    "desc": "Gain 25% resistance to fire damage.",
+    "rarity": "common",
+    "flavour": "The fires of Krenindala.",
+    "can_echo": true
+  },
+  "crystal blue protection": {
+    "display_name": "Crystal Blue Protection",
+    "desc": "Upon killing a denizen, you have a 10% chance of gaining the prismatic defence for 5 seconds.",
+    "rarity": "common",
+    "flavour": "To his great shock, a dazzling barrier sprang up around him. Hope was kindled.",
+    "can_echo": false
+  },
+  "death's demise": {
+    "display_name": "Death's Demise",
+    "desc": "Your health is increased to 133% of its normal maximum, but you can no longer benefit from the life-stealing effect of a death cape.",
+    "rarity": "common",
+    "flavour": "Come Thoth, your eternity is over.",
+    "can_echo": true
+  },
+  "deliquesce": {
+    "display_name": "Deliquesce",
+    "desc": "Commencing a new ripple will phase you out of reality for 20 seconds.",
+    "rarity": "rare",
+    "flavour": "The shade of the long grass is no obstacle to a snake.",
+    "can_echo": false
+  },
+  "diagnostician": {
+    "display_name": "Diagnostician",
+    "desc": "You are immune to the hypochondria affliction.",
+    "rarity": "uncommon",
+    "flavour": "Everybody lies.",
+    "can_echo": false
+  },
+  "doom inescapable": {
+    "display_name": "Doom Inescapable",
+    "desc": "When you have sprouted tentacles, cowardly denizens will no longer be able to flee from your presence.",
+    "rarity": "common",
+    "flavour": "His voice cold and commanding, He shouted simply, \"Take them.\"",
+    "can_echo": false
+  },
+  "dulkurio-ma": {
+    "display_name": "Dulkurio-ma",
+    "desc": "When you defeat a denizen, you have a 25% chance to immediately gain the favour of Matic Ridley, making your next attack guaranteed to be a high level critical hit.",
+    "rarity": "legendary",
+    "flavour": "The Masters are broken inside. They will kill us all. I must help to kill them instead.",
+    "can_echo": false
+  },
+  "dulled senses": {
+    "display_name": "Dulled Senses",
+    "desc": "The first instance of damage you suffer in a ripple will deal no damage so long as it would have done at least 25% of your health.",
+    "rarity": "uncommon",
+    "flavour": "Ha, I didn't even feel that one! Hit me again!",
+    "can_echo": false
+  },
+  "dungeoneer": {
+    "display_name": "Dungeoneer",
+    "desc": "Your damage dealt is increased by 5% and your balance and equilibrium recover 5% faster.",
+    "rarity": "common",
+    "flavour": "Those pygmies won't know what hit them.",
+    "can_echo": true
+  },
+  "earthen will": {
+    "display_name": "Earthen Will",
+    "desc": "Gain 15% physical resistance, but lose 10% magical resistance.",
+    "rarity": "uncommon",
+    "flavour": "'Live and know you delight your Creator!",
+    "can_echo": false
+  },
+  "echo of nemuritoaure": {
+    "display_name": "Echo of Nemuritoaure",
+    "desc": "You take 25% less physical damage, but falling below 35% health causes you to become transfixed and lose the benefit for 7 seconds. This can only occur once every 7 seconds.",
+    "rarity": "uncommon",
+    "flavour": "If Ugrach is the Soulbleed's origin, Gerzson is its most magnificent remaining artisan.",
+    "can_echo": true
+  },
+  "elder wisdom": {
+    "display_name": "Elder Wisdom",
+    "desc": "The Jade Empress increases your intelligence by 1.",
+    "rarity": "common",
+    "flavour": "It is the curse of the wise to be correct while the oblivious ignore your words.",
+    "can_echo": true
+  },
+  "elixir addict": {
+    "display_name": "Elixir Addict",
+    "desc": "Your health elixirs are 15% more effective but you gain no health from moss or potash.",
+    "rarity": "uncommon",
+    "flavour": "I can stop whenever I want.",
+    "can_echo": true
+  },
+  "energetic": {
+    "display_name": "Energetic",
+    "desc": "You are immune to lethargy and weariness.",
+    "rarity": "common",
+    "flavour": "Just keep going. And going. And going. And going. And going. And going. And going. And going. And going. And going. And going. And going. And going.",
+    "can_echo": false
+  },
+  "escape artist": {
+    "display_name": "Escape Artist",
+    "desc": "Non-boss denizens will no longer block your movements.",
+    "rarity": "uncommon",
+    "flavour": "Lemme just squeeze right past ya.",
+    "can_echo": false
+  },
+  "expansive mind": {
+    "display_name": "Expansive Mind",
+    "desc": "Each kill on a denizen grants you 3 additional maximum mana but you lose 2 points of maximum health.",
+    "rarity": "rare",
+    "flavour": "It is the curse of old age to have a weak body and a strong mind.",
+    "can_echo": true
+  },
+  "fae-lapse": {
+    "display_name": "Fae-Lapse",
+    "desc": "There is a 5% chance you give the denizen you are attacking amnesia. This may only occur every 5 seconds.",
+    "rarity": "uncommon",
+    "flavour": "What was I doing again?",
+    "can_echo": true
+  },
+  "flameheart": {
+    "display_name": "Flameheart",
+    "desc": "You are immune to the frozen affliction.",
+    "rarity": "common",
+    "flavour": "His hatred burned like fire, swathing the icy loathing in his heart.",
+    "can_echo": false
+  },
+  "font of life": {
+    "display_name": "Font of Life",
+    "desc": "The Earthmother empowers your tree tattoo to now cure two afflictions.",
+    "rarity": "rare",
+    "flavour": "By the benevolence of Nature Herself, rot becomes renewal within the Cycle.",
+    "can_echo": false
+  },
+  "forgeweaver": {
+    "display_name": "Forgeweaver",
+    "desc": "You may wear any armour regardless of class, but you lose 10% magic resistance.",
+    "rarity": "rare",
+    "flavour": "The Smith worked proudly, and next to Him stood the Elder Proteus. Architect to His Labour.",
+    "can_echo": false
+  },
+  "furious speed": {
+    "display_name": "Furious Speed",
+    "desc": "The fury of the Skylord infuses you for 60 seconds at the start of each new ripple, granting you 30% increased damage and 5 additional celerity.",
+    "rarity": "legendary",
+    "flavour": "One Infinite half of the primordial Creation.",
+    "can_echo": true
+  },
+  "hammer and anvil": {
+    "display_name": "Hammer and Anvil",
+    "desc": "The Smith's raw strength allows your attacks to bypass denizen shields.",
+    "rarity": "rare",
+    "flavour": "The greatest shield is but another working upon The Smith's anvil.",
+    "can_echo": false
+  },
+  "hardened": {
+    "display_name": "Hardened",
+    "desc": "You are immune to the sensitivity affliction.",
+    "rarity": "rare",
+    "flavour": "Nah, I'm good.",
+    "can_echo": false
+  },
+  "haskor's bravado": {
+    "display_name": "Haskor's Bravado",
+    "desc": "Your attacks have a 5% chance to afflict the target with recklessness. This may only occur every 5 seconds.",
+    "rarity": "common",
+    "flavour": "A Hero does not hesitate! Nor does the fool. This is why they are, at times, difficult to differentiate.",
+    "can_echo": true
+  },
+  "hawk eyes": {
+    "display_name": "Hawk Eyes",
+    "desc": "The God of War increases your chance to critically strike by 1%.",
+    "rarity": "uncommon",
+    "flavour": "Brutality incarnate and War eternal.",
+    "can_echo": true
+  },
+  "heroic strength": {
+    "display_name": "Heroic Strength",
+    "desc": "The Patron of Heroes increases your strength by 1.",
+    "rarity": "common",
+    "flavour": "Blood settles all disputes. Only in the throes of battle are all made equal beneath the blade.",
+    "can_echo": true
+  },
+  "hexweaver": {
+    "display_name": "Hexweaver",
+    "desc": "You no longer lose swiftcurse charges, and your curses consume no willpower.",
+    "rarity": "rare",
+    "flavour": "To curse without cost is to speak with the tongue of inevitability.",
+    "can_echo": false
+  },
+  "hidden gem": {
+    "display_name": "Hidden Gem",
+    "desc": "You deal 1% bonus damage.",
+    "rarity": "common",
+    "flavour": "The brightest jewel can hide within the most mundane rock.",
+    "can_echo": true
+  },
+  "hoarder": {
+    "display_name": "Hoarder",
+    "desc": "All scaling gear effects are magnified by 15%.",
+    "rarity": "uncommon",
+    "flavour": "Don't throw that away! I need it.",
+    "can_echo": true
+  },
+  "hyperfixate": {
+    "display_name": "Hyperfixate",
+    "desc": "You are immune to the confusion affliction.",
+    "rarity": "common",
+    "flavour": "I'm not confused, you are!",
+    "can_echo": false
+  },
+  "icosse's favour": {
+    "display_name": "Icosse's Favour",
+    "desc": "Begin each ripple with 8 reflections.",
+    "rarity": "uncommon",
+    "flavour": "Who needs friends when we have each other?",
+    "can_echo": false
+  },
+  "impetuous": {
+    "display_name": "Impetuous",
+    "desc": "For 60 seconds after commencing a new ripple, the Sea God will grant you 20% reduced balance and equilibrium recovery and 5 additional celerity.",
+    "rarity": "legendary",
+    "flavour": "To end eternity, one must simply be so bold as to claim it.",
+    "can_echo": true
+  },
+  "implacable": {
+    "display_name": "Implacable",
+    "desc": "You are immune to the effects of fear.",
+    "rarity": "common",
+    "flavour": "Fear does not hold sway over the minds of warriors true.",
+    "can_echo": false
+  },
+  "indiscriminate": {
+    "display_name": "Indiscriminate",
+    "desc": "Your Arc is now effective against denizens.",
+    "rarity": "rare",
+    "flavour": "If they're all dead and you're still standing, then you win.",
+    "can_echo": false
+  },
+  "indomitable": {
+    "display_name": "Indomitable",
+    "desc": "Gain 1 points of constitution.",
+    "rarity": "common",
+    "flavour": "Ever greater.",
+    "can_echo": true
+  },
+  "inflammable": {
+    "display_name": "Inflammable",
+    "desc": "You are immune to burning, but suffer permanent shivering.",
+    "rarity": "rare",
+    "flavour": "Burning Men just isn't for me.",
+    "can_echo": false
+  },
+  "iron throat": {
+    "display_name": "Iron Throat",
+    "desc": "Gain 25% resistance to asphyxiation damage.",
+    "rarity": "common",
+    "flavour": "Sinew and coil, muscle and tendon. Capacity beyond lesser forms.",
+    "can_echo": true
+  },
+  "knight's resolve": {
+    "display_name": "Knight's Resolve",
+    "desc": "While attuned to Garon, all damage you take will be reduced by an additional 10%.",
+    "rarity": "common",
+    "flavour": "And so it was that Garon fell to Marak as the doom of Seleucar wracked the landscape...",
+    "can_echo": false
+  },
+  "lady luck's legacy": {
+    "display_name": "Lady Luck's Legacy",
+    "desc": "The memory of Luckbinder grants you 3% increased critical strike chance.",
+    "rarity": "rare",
+    "flavour": "Mere luck? No. His tool ensured Destiny spoke only Protean Will.",
+    "can_echo": true
+  },
+  "legacy": {
+    "display_name": "Legacy",
+    "desc": "Your attacks have a 5% chance to invoke the dazzling charisma of the Great Bard, stunning all denizens in the location for 2 seconds. This can only occur once every 5 seconds.",
+    "rarity": "rare",
+    "flavour": "Where the rising ape meets the falling angel, mortals are always capable of becoming more.",
+    "can_echo": true
+  },
+  "legacy of giacinto": {
+    "display_name": "Legacy of Giacinto",
+    "desc": "You are always under the effects of an Alchemist petrifying compound, transforming your body to iron that resists an additional 5% damage.",
+    "rarity": "uncommon",
+    "flavour": "Sick of their lot in life, they were willing to help me with my ultimate experiment: using my alchemical knowledge to transform the status of people, instead of metals.",
+    "can_echo": false
+  },
+  "legacy of the scrula": {
+    "display_name": "Legacy of the Scrula",
+    "desc": "Parrying a limb will now parry all limbs at once.",
+    "rarity": "rare",
+    "flavour": "The Scrula tore apart countless Kx'khrah and matched the Rajamala in unarmed combat. But then Han-Silnar joined the battle...",
+    "can_echo": false
+  },
+  "lithe": {
+    "display_name": "Lithe",
+    "desc": "You are immune to the paralysis affliction.",
+    "rarity": "legendary",
+    "flavour": "No force holds what refuses to accept restraint.",
+    "can_echo": false
+  },
+  "loquacious": {
+    "display_name": "Loquacious",
+    "desc": "You are immune to the stuttering affliction.",
+    "rarity": "common",
+    "flavour": "Verily.",
+    "can_echo": false
+  },
+  "lucid mind": {
+    "display_name": "Lucid Mind",
+    "desc": "You are immune to the dementia affliction.",
+    "rarity": "common",
+    "flavour": "I've never been more certain of something.",
+    "can_echo": false
+  },
+  "maklak's promise": {
+    "display_name": "Maklak's Promise",
+    "desc": "Non-boss denizens can now be impeded by icewalls.",
+    "rarity": "rare",
+    "flavour": "You sought to keep my friends imprisoned for an eternity inside your ice! Now you shall know of their agony!",
+    "can_echo": false
+  },
+  "master of harmony": {
+    "display_name": "Master of Harmony",
+    "desc": "When you defeat a denizen, you will gain a bubble of serenity for 10 seconds.",
+    "rarity": "legendary",
+    "flavour": "He struck down his enemy and discovered silence waiting beneath the blow.",
+    "can_echo": false
+  },
+  "matter over mind": {
+    "display_name": "Matter Over Mind",
+    "desc": "Gain 15% increased damage but you are plagued with uncurable stupidity.",
+    "rarity": "uncommon",
+    "flavour": "Muscle squishing brains means muscle beats mind. Only stupids dun get it.",
+    "can_echo": true
+  },
+  "meathead": {
+    "display_name": "Meathead",
+    "desc": "Your strength is increased by 5, but you suffer permanent stupidity.",
+    "rarity": "common",
+    "flavour": "Crogg know Crogg smart. Best Sea-God-Baron said so.",
+    "can_echo": false
+  },
+  "might of minia": {
+    "display_name": "Might of Minia",
+    "desc": "Your attacks have a 5% chance to afflict the target with weakness. This may only occur every 5 seconds.",
+    "rarity": "uncommon",
+    "flavour": "The Imp Lord believes the young of Sapience are the future. As long as they kill all the pixies.",
+    "can_echo": true
+  },
+  "mind palace": {
+    "display_name": "Mind Palace",
+    "desc": "While protected by a curseward, you are immune to mental afflictions.",
+    "rarity": "rare",
+    "flavour": "Some choose to retreat within themselves, and seek solace only in the company of their own thoughts. They are, naturally, quite mad as a result.",
+    "can_echo": false
+  },
+  "miracle": {
+    "display_name": "Miracle",
+    "desc": "Your class-related curing ability now cures an additional affliction.",
+    "rarity": "uncommon",
+    "flavour": "As if by miracle, the cough cleared and his fever broke.",
+    "can_echo": false
+  },
+  "mutated jaws": {
+    "display_name": "Mutated Jaws",
+    "desc": "The cooldown for commanding your hound to maul a denizen is reduced by 66%.",
+    "rarity": "common",
+    "flavour": "Some hounds fetch sticks. Some fetch screams. This one has a busy schedule.",
+    "can_echo": false
+  },
+  "negotiator": {
+    "display_name": "Negotiator",
+    "desc": "Every fifth boon you select will grant you Prospero's Fortune, allowing you to choose a second one.",
+    "rarity": "uncommon",
+    "flavour": "The Merchant Lord ever offers a wealth of opportunities.",
+    "can_echo": false
+  },
+  "nightwalker": {
+    "display_name": "Nightwalker",
+    "desc": "You are immune to the darkshade affliction.",
+    "rarity": "common",
+    "flavour": "Beneath the canopy they walked, in the shade of crownwoods grown tall and strong beneath the north-sky sun and far-bright moon.",
+    "can_echo": false
+  },
+  "one step ahead": {
+    "display_name": "One Step Ahead",
+    "desc": "Your muscles are almost as strong as Alynzar's, and you will automatically shrug off entanglement and ropes that would bind you.",
+    "rarity": "rare",
+    "flavour": "No one is quite as strong as Alynzar.",
+    "can_echo": false
+  },
+  "onyx scales": {
+    "display_name": "Onyx Scales",
+    "desc": "Gain 15% resistance to all damage.",
+    "rarity": "rare",
+    "flavour": "The black of Krenindala's deepest ocean trench.",
+    "can_echo": false
+  },
+  "ormyrr claws": {
+    "display_name": "Ormyrr Claws",
+    "desc": "You deal 10% bonus damage on the ground but can no longer fly.",
+    "rarity": "uncommon",
+    "flavour": "Elara's misery.",
+    "can_echo": true
+  },
+  "outlaw": {
+    "display_name": "Outlaw",
+    "desc": "You are immune to the justice and guilt afflictions.",
+    "rarity": "common",
+    "flavour": "Never troubled much with remorse, myself. That was for those who were in the wrong.",
+    "can_echo": false
+  },
+  "oxygenated": {
+    "display_name": "Oxygenated",
+    "desc": "You are immune to the asthma affliction.",
+    "rarity": "rare",
+    "flavour": "And from the top of her lungs she screamed, her breath a joyous cry for freedom and liberty at last.",
+    "can_echo": false
+  },
+  "paean": {
+    "display_name": "Paean",
+    "desc": "Defeating a denizen has a 10% chance of granting you the battlesong effect for 25 seconds.",
+    "rarity": "uncommon",
+    "flavour": "By song and sword will come voice and victory.",
+    "can_echo": false
+  },
+  "pain procrastinator": {
+    "display_name": "Pain Procrastinator",
+    "desc": "When you take damage, you will instead receive a grievous wound.",
+    "rarity": "legendary",
+    "flavour": "Suffering is inescapable, though sometimes it merely waits for a quieter hour.",
+    "can_echo": false
+  },
+  "pinpoint": {
+    "display_name": "Pinpoint",
+    "desc": "Your attacks ignore 10% of a denizen's resistances.",
+    "rarity": "uncommon",
+    "flavour": "Right in the eye!",
+    "can_echo": true
+  },
+  "plaguewalker": {
+    "display_name": "Plaguewalker",
+    "desc": "Your mhun heritage renders you immune to the effects of nausea.",
+    "rarity": "uncommon",
+    "flavour": "And so we wandered, aimless and doomed by sickness. But the brave Mhunna, the mighty Mhunna, the kind, and strong, and inspiring Mhunna did lead us out of the time of darkness and into an age of prosperity. So has Moghedu flourished, unconquered, ever since.",
+    "can_echo": false
+  },
+  "plasmatic": {
+    "display_name": "Plasmatic",
+    "desc": "You are immune to the haemophilia affliction.",
+    "rarity": "common",
+    "flavour": "My mother said I always had thick blood.",
+    "can_echo": false
+  },
+  "poindexter": {
+    "display_name": "Poindexter",
+    "desc": "Your intelligence is increased by 5, but you suffer permanent dizziness.",
+    "rarity": "rare",
+    "flavour": "Many a malevolent scoundrel has hidden beneath a veil of innocuous scholasticism.",
+    "can_echo": false
+  },
+  "pragmatic": {
+    "display_name": "Pragmatic",
+    "desc": "You are immune to the recklessness affliction.",
+    "rarity": "rare",
+    "flavour": "It is simply an abundance of good sense.",
+    "can_echo": false
+  },
+  "predator": {
+    "display_name": "Predator",
+    "desc": "Cowardly denizens will no longer be able to flee from you.",
+    "rarity": "uncommon",
+    "flavour": "I dare you to run.",
+    "can_echo": false
+  },
+  "prodigy": {
+    "display_name": "Prodigy",
+    "desc": "While wading, all of your skills are permanently transcendent.",
+    "rarity": "common",
+    "flavour": "Perfection in every field.",
+    "can_echo": false
+  },
+  "providence": {
+    "display_name": "Providence",
+    "desc": "Your strength, dexterity, constitution, and intelligence are each increased by 4.",
+    "rarity": "legendary",
+    "flavour": "Your fate and fame shall be an echo and a light unto eternity.",
+    "can_echo": false
+  },
+  "pyrrhic victory": {
+    "display_name": "Pyrrhic Victory",
+    "desc": "Your attacks against non-boss enemies always critically strike but you are now susceptible to being critically struck by denizens.",
+    "rarity": "rare",
+    "flavour": "Far too little. Far too late.",
+    "can_echo": false
+  },
+  "rage-fuelled": {
+    "display_name": "Rage-Fuelled",
+    "desc": "When slaying a denizen, your next battlerage attack will cost no resource.",
+    "rarity": "rare",
+    "flavour": "Blood for the Gods!",
+    "can_echo": false
+  },
+  "rat catcher": {
+    "display_name": "Rat Catcher",
+    "desc": "Extispicy is now permanent and grants an additional 2% critical strike chance.",
+    "rarity": "rare",
+    "flavour": "The Ratman cometh.",
+    "can_echo": true
+  },
+  "razor leaf": {
+    "display_name": "Razor Leaf",
+    "desc": "When touching your tree tattoo, razor-sharp leaves will descend upon the locale, dealing damage to all denizens present.",
+    "rarity": "uncommon",
+    "flavour": "Life is but one half of the equation. Were it not for death, then to live would have no meaning.",
+    "can_echo": false
+  },
+  "reckless rage": {
+    "display_name": "Reckless Rage",
+    "desc": "Deal 10% more damage but you can no longer benefit from shields, prismatic barriers, or blood barriers.",
+    "rarity": "uncommon",
+    "flavour": "Defence is for those who believe they can lose.",
+    "can_echo": true
+  },
+  "resourceful": {
+    "display_name": "Resourceful",
+    "desc": "Your endurance and willpower costs are reduced by 10% and defeating a denizen restores 10% of your class resources.",
+    "rarity": "uncommon",
+    "flavour": "I'm sure it's edible enough to count.",
+    "can_echo": true
+  },
+  "restoral": {
+    "display_name": "Restoral",
+    "desc": "When you are put to sleep, the Lady of Dreams will restore you to full health at the cost of your ability to instantly wake.",
+    "rarity": "rare",
+    "flavour": "One does not wake from the velvety clutches of Sleep. One is released.",
+    "can_echo": false
   },
   "restoration": {
     "display_name": "Restoration",
     "desc": "Restore your resources instead.",
-    "rarity": "unknown",
+    "rarity": "common",
     "flavour": "",
-    "can_echo": null
+    "can_echo": false
   },
-  "cleave": {
-    "display_name": "Cleave",
-    "desc": "An AoE strike. Fails if only one denizen is present.",
-    "rarity": "unknown",
-    "flavour": "",
-    "can_echo": null
+  "revel in slaughter": {
+    "display_name": "Revel in Slaughter",
+    "desc": "When you slay a denizen, a random affliction will be cured.",
+    "rarity": "common",
+    "flavour": "Kill 'em all and let Ugrach sort it out.",
+    "can_echo": false
   },
-  "reckless rage": {
-    "display_name": "Reckless Rage",
-    "desc": "Prevents blood shields and regular shields.",
-    "rarity": "unknown",
-    "flavour": "",
-    "can_echo": null
+  "robust restoration": {
+    "display_name": "Robust Restoration",
+    "desc": "Your survival restoration uses 20% reduced equilibrium, restores 20% of your health, but drains 10% of your mana, willpower, and endurance.",
+    "rarity": "common",
+    "flavour": "Even the most gruesome of wounds could be mended.",
+    "can_echo": false
+  },
+  "roll hide": {
+    "display_name": "Roll Hide",
+    "desc": "Tumbling out of a room will cause you to lose all pursuing denizens.",
+    "rarity": "uncommon",
+    "flavour": "Gaia and Vastar threw their awesome energies at the elementals and Agatheis, forcing Him into a retreat...",
+    "can_echo": false
+  },
+  "rose of pain": {
+    "display_name": "Rose of Pain",
+    "desc": "Your intelligence is increased by 3, and your equilibrium recovers 15% faster, but you suffer from permanent hallucinations, and attacking a denizen will set you ablaze.",
+    "rarity": "legendary",
+    "flavour": "No... I am abandoned? Betrayed? I... I burn. Gods help me, I burn! Please... not again. ..",
+    "can_echo": false
+  },
+  "savant": {
+    "display_name": "Savant",
+    "desc": "Focusing your mind has no cooldown but costs 10% of your maximum mana.",
+    "rarity": "uncommon",
+    "flavour": "These beings we shall call Entropy and Discord, for they originate from a place where names have no meaning, where organized thought is not known and where the mortal mind would be rendered instantly insane were one unfortunate enough to experience it.",
+    "can_echo": false
+  },
+  "scar of creation": {
+    "display_name": "Scar of Creation",
+    "desc": "Your scream ability has a 20% chance to afflict the target with sensitivity.",
+    "rarity": "common",
+    "flavour": "What happens once the screaming stops will drop your jaw.",
+    "can_echo": true
+  },
+  "scout's honour": {
+    "display_name": "Scout's Honour",
+    "desc": "Activating hypersight while in a ripple hub will reveal all denizens in the current ripple to you.",
+    "rarity": "common",
+    "flavour": "Reporting for duty!",
+    "can_echo": false
+  },
+  "second wind": {
+    "display_name": "Second Wind",
+    "desc": "Gain 1 extra life when selecting this boon, up to the maximum.",
+    "rarity": "rare",
+    "flavour": "I can do this all day.",
+    "can_echo": false
+  },
+  "self-preservation": {
+    "display_name": "Self-Preservation",
+    "desc": "You are immune to the masochism affliction.",
+    "rarity": "common",
+    "flavour": "Are you joking? That might kill me!",
+    "can_echo": false
+  },
+  "sharp mind": {
+    "display_name": "Sharp Mind",
+    "desc": "Critical strikes restore 5% of your mana.",
+    "rarity": "common",
+    "flavour": "Criticism is your sword. Apply it wisely, and you will gain understanding.",
+    "can_echo": true
+  },
+  "shattered glass": {
+    "display_name": "Shattered Glass",
+    "desc": "Defeating a denizen surrounds you in a prismatic barrier for five seconds, but also causes you to bleed for 5% of your maximum health.",
+    "rarity": "uncommon",
+    "flavour": "Within half a minute he was bleeding from a myriad of wounds.",
+    "can_echo": false
+  },
+  "silvestri's grace": {
+    "display_name": "Silvestri's Grace",
+    "desc": "Gain 3 dexterity but lose 2 constitution.",
+    "rarity": "uncommon",
+    "flavour": "Be cheerful! I know I leave you with a heavy heart, but no one likes an angry jester.",
+    "can_echo": false
+  },
+  "singed flesh": {
+    "display_name": "Singed Flesh",
+    "desc": "Your attacks have a 5% chance to afflict the target with sensitivity. This may only occur every 5 seconds.",
+    "rarity": "rare",
+    "flavour": "I just have sensitive skin.",
+    "can_echo": true
+  },
+  "single minded focus": {
+    "display_name": "Single Minded Focus",
+    "desc": "Gain 5% critical strike chance but you can no longer squint, glance, or observe.",
+    "rarity": "uncommon",
+    "flavour": "I know not what is real and false any longer. I can only trust my senses -",
+    "can_echo": false
+  },
+  "siren's song": {
+    "display_name": "Siren's Song",
+    "desc": "Your attacks have a 5% chance to charm the target. This may only occur every 5 seconds.",
+    "rarity": "uncommon",
+    "flavour": "How you doing?",
+    "can_echo": true
+  },
+  "sleuth": {
+    "display_name": "Sleuth",
+    "desc": "Your fullsense ability will reveal all denizens in your ripple.",
+    "rarity": "uncommon",
+    "flavour": "Once my darkness was the mark of true profit.",
+    "can_echo": false
+  },
+  "snowflake": {
+    "display_name": "Snowflake",
+    "desc": "Your constitution is increased by 5, but you suffer permanent sensitivity.",
+    "rarity": "uncommon",
+    "flavour": "Stop being so precious.",
+    "can_echo": false
+  },
+  "social anxiety": {
+    "display_name": "Social Anxiety",
+    "desc": "You are immune to shyness and loneliness.",
+    "rarity": "common",
+    "flavour": "Forever alone... just how I like it.",
+    "can_echo": false
+  },
+  "sohtanate's suffering": {
+    "display_name": "Sohtanate's Suffering",
+    "desc": "Focusing your mind cures two afflictions, but all stupidity you labour under shall be muddled further.",
+    "rarity": "uncommon",
+    "flavour": "Psion is not that threatening.",
+    "can_echo": false
+  },
+  "star of winter": {
+    "display_name": "Star of Winter",
+    "desc": "Entering a new ripple invokes a memory of Lifegiver, granting you 1 additional life, up to the maximum.",
+    "rarity": "legendary",
+    "flavour": "And when first Her footfalls touched the earth, the spark of life lit up Creation, and what was could never be again.",
+    "can_echo": false
+  },
+  "starving": {
+    "display_name": "Starving",
+    "desc": "You are immune to the anorexia affliction.",
+    "rarity": "rare",
+    "flavour": "They say that Estach never found a feast he couldn't conquer or a meal he couldn't finish.",
+    "can_echo": false
+  },
+  "statuesque": {
+    "display_name": "Statuesque",
+    "desc": "You are immune to the epilepsy affliction.",
+    "rarity": "rare",
+    "flavour": "What do you mean I've got the shakes?",
+    "can_echo": false
+  },
+  "strength of the megalith": {
+    "display_name": "Strength of the Megalith",
+    "desc": "Your megalith tattoo will now additionally reduce endurance costs by 15%.",
+    "rarity": "uncommon",
+    "flavour": "Strength is not always measured in muscles and braggadocio. As the saying goes... sometimes the megalith is mightier than the ox.",
+    "can_echo": false
+  },
+  "sure-footed": {
+    "display_name": "Sure-Footed",
+    "desc": "You are immune to the dizziness affliction.",
+    "rarity": "common",
+    "flavour": "I know where I'm going, thank you very much.",
+    "can_echo": false
+  },
+  "tainted grail": {
+    "display_name": "Tainted Grail",
+    "desc": "Healing elixirs heal for 10% more but any stupidity you labour under will be muddled further.",
+    "rarity": "uncommon",
+    "flavour": "My secret? A touch of aconite alongside the grapes.",
+    "can_echo": false
+  },
+  "tantrum": {
+    "display_name": "Tantrum",
+    "desc": "Your first battlerage ability per ripple costs no rage.",
+    "rarity": "common",
+    "flavour": "RAAAAAAAAHHHGRGRAAH!",
+    "can_echo": false
+  },
+  "temporal anomaly": {
+    "display_name": "Temporal Anomaly",
+    "desc": "The Genesis infuses your attacks with time-slowing magic, granting them a 5% chance to afflict the target with aeon. This may only occur once every 5 seconds.",
+    "rarity": "uncommon",
+    "flavour": "Aeonics is known as the Forbidden Art, for to meddle with the timestream is to court disaster. But naught is forbidden to He Whose very existence was outside the Maker's plan.",
+    "can_echo": true
+  },
+  "terror of the skies": {
+    "display_name": "Terror of the Skies",
+    "desc": "Your draconic heritage will prevent non-boss denizens from tracking or chasing you.",
+    "rarity": "rare",
+    "flavour": "The age of the dragons is long lost, drifting amongst the shattered fragments of Krenindala. But the ancient power of our ancestors remains.",
+    "can_echo": false
+  },
+  "thirst for power": {
+    "display_name": "Thirst for Power",
+    "desc": "You deal 10% more damage when above 90% mana but 10% less damage below 90% mana.",
+    "rarity": "uncommon",
+    "flavour": "It was easy to slake at first. Then I learned... less is never more.",
+    "can_echo": true
+  },
+  "timeless speed": {
+    "display_name": "Timeless Speed",
+    "desc": "Upon killing a denizen, you have a 10% chance of gaining the blur defence for 5 seconds.",
+    "rarity": "common",
+    "flavour": "Every problem looks smaller when approached at terminal velocity.",
+    "can_echo": false
+  },
+  "tireless": {
+    "display_name": "Tireless",
+    "desc": "Defeating a denizen will restore 2% of your willpower and 2% of your endurance.",
+    "rarity": "common",
+    "flavour": "Lucaine took all his exhaustion, all his helpless rage, all his futile dreams, and sent them roaring into his blade.",
+    "can_echo": false
+  },
+  "trenchfoot": {
+    "display_name": "Trenchfoot",
+    "desc": "Your dexterity is increased by 5, but you suffer permanent hamstrung.",
+    "rarity": "uncommon",
+    "flavour": "Onward, through toil and trouble, through wind and shine.",
+    "can_echo": false
+  },
+  "truther": {
+    "display_name": "Truther",
+    "desc": "You are immune to the paranoia and hallucinations afflictions.",
+    "rarity": "common",
+    "flavour": "Um, actually...",
+    "can_echo": false
+  },
+  "truthseeker": {
+    "display_name": "Truthseeker",
+    "desc": "The God of Darkness allows your eyes to perceive the truth of all hidden afflictions that may befall you.",
+    "rarity": "uncommon",
+    "flavour": "Darkness is the idea of forbidden knowledge made manifest.",
+    "can_echo": false
+  },
+  "verdant scales": {
+    "display_name": "Verdant Scales",
+    "desc": "Gain 25% resistance to poison damage.",
+    "rarity": "common",
+    "flavour": "Whence the Wyrmvenom comes.",
+    "can_echo": true
+  },
+  "viridian balm": {
+    "display_name": "Viridian Balm",
+    "desc": "While attuned to Daina, you will enjoy the effects of grove panacea, periodically healing afflictions from you.",
+    "rarity": "uncommon",
+    "flavour": "Lost entirely in the transformation. Overtaken by Nature in a blasphemy to Gaia Herself. Ceased to exist.",
+    "can_echo": false
+  },
+  "winter's heart": {
+    "display_name": "Winter's Heart",
+    "desc": "Your deepfreeze spell can now be used against denizens and deals cold damage to all denizens in the location.",
+    "rarity": "common",
+    "flavour": "Winter's mourning for all she binds within eternal.",
+    "can_echo": false
+  },
+  "wisdom of the ox": {
+    "display_name": "Wisdom of the Ox",
+    "desc": "Your ox tattoo will now additionally reduce willpower costs by 15%.",
+    "rarity": "uncommon",
+    "flavour": "Wisdom can be found in the most unexpected places. A vacant expression does not signify an empty mind.",
+    "can_echo": false
+  },
+  "wrath and righteousness": {
+    "display_name": "Wrath and Righteousness",
+    "desc": "When you would die, the power of Righteous Fire will allow you to restore yourself to full health and instantly slay the non-boss denizen that defeated you. This effect carries a cooldown of 10 minutes.",
+    "rarity": "legendary",
+    "flavour": "The Justice That Is.",
+    "can_echo": true
   }
 }
