@@ -1264,7 +1264,7 @@
     "desc": "You deal 12% increased damage, but the spells invoked by your staffcast will now be out of your control.",
     "rarity": "uncommon",
     "flavour": "Control is overrated.",
-    "can_echo": true
+    "can_echo": null
   },
   "winter's heart": {
     "display_name": "Winter's Heart",
