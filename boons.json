@@ -13,6 +13,13 @@
     "flavour": "The mind is sharpened each time truth is chosen over ease.",
     "can_echo": false
   },
+  "acidbreath": {
+    "display_name": "acidbreath",
+    "desc": "Your draconic blast attack is imbued with a Black Dragon's breath, granting it a 20% chance to afflict your foe with sensitivity.",
+    "rarity": "common",
+    "flavour": "Each a vessel of caustic hell.",
+    "can_echo": null
+  },
   "acrobat": {
     "display_name": "Acrobat",
     "desc": "Tumbling completes instantly but incurs a 50% increased balance cost.",
@@ -62,6 +69,20 @@
     "flavour": "In the seventh century after Seleucar's fall, the White Dragon fell to the machinations of the vile Dala'myrr, perishing over desert sands.",
     "can_echo": false
   },
+  "aspect of kkractle": {
+    "display_name": "aspect of kkractle",
+    "desc": "Commanding a summoned ashbeast to surge now deals fire damage to all denizens in your location.",
+    "rarity": "rare",
+    "flavour": "A servant of Eternal Fire, called forth to answer mage's ire.",
+    "can_echo": null
+  },
+  "atheist": {
+    "display_name": "atheist",
+    "desc": "You are immune to the hellsight affliction.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
   "aurum scales": {
     "display_name": "Aurum Scales",
     "desc": "Gain 25% resistance to psychic damage.",
@@ -75,6 +96,13 @@
     "rarity": "common",
     "flavour": "Ice born in the blackness about Krenindala's very sphere.",
     "can_echo": true
+  },
+  "baron's bro": {
+    "display_name": "baron's bro",
+    "desc": "When you critically strike, there is a low chance that your attack will invoke Baron Balam Agab, summoning a squad of ogre goons to lay waste to your enemies. This may only occur once every 20 seconds.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
   },
   "battle-scarred": {
     "display_name": "Battle-Scarred",
@@ -117,6 +145,13 @@
     "rarity": "rare",
     "flavour": "It is the curse of youth to have a strong body and weak mind.",
     "can_echo": true
+  },
+  "boon of the lord dragon": {
+    "display_name": "boon of the lord dragon",
+    "desc": "Your firelash deals 100% increased damage against denizens.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
   },
   "borrowed power": {
     "display_name": "Borrowed Power",
@@ -187,6 +222,13 @@
     "rarity": "rare",
     "flavour": "It's just a skin condition.",
     "can_echo": false
+  },
+  "conductivity": {
+    "display_name": "conductivity",
+    "desc": "When you take electric damage, your aqueous form will conduct the electricity to strike all denizens present.",
+    "rarity": "rare",
+    "flavour": "I am the sea and the ocean, I am the ripple and the tsunami, I am the rain and I am the river. I am all that is Water, and you trespass in my domain.",
+    "can_echo": null
   },
   "conqueror": {
     "display_name": "Conqueror",
@@ -286,12 +328,26 @@
     "flavour": "Come Thoth, your eternity is over.",
     "can_echo": true
   },
+  "deathstream": {
+    "display_name": "deathstream",
+    "desc": "Your pervasion lifestream ability now deals poison damage to denizens instead of healing them.",
+    "rarity": "uncommon",
+    "flavour": "To them it was the cup of life, refreshing and cool. But to us it was a terrible poison, and we would die with our thirst.",
+    "can_echo": null
+  },
   "deliquesce": {
     "display_name": "Deliquesce",
     "desc": "Commencing a new ripple will phase you out of reality for 20 seconds.",
     "rarity": "rare",
     "flavour": "The shade of the long grass is no obstacle to a snake.",
     "can_echo": false
+  },
+  "demagogue": {
+    "display_name": "demagogue",
+    "desc": "You are immune to the disloyalty affliction.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
   },
   "diagnostician": {
     "display_name": "Diagnostician",
@@ -300,12 +356,33 @@
     "flavour": "Everybody lies.",
     "can_echo": false
   },
+  "disembowel": {
+    "display_name": "disembowel",
+    "desc": "Your gut has a 20% chance to inflict your target with inhibit.",
+    "rarity": "uncommon",
+    "flavour": "Through rending claw and sharpened fang was even Black Pazuzu set to flight.",
+    "can_echo": null
+  },
   "doom inescapable": {
     "display_name": "Doom Inescapable",
     "desc": "When you have sprouted tentacles, cowardly denizens will no longer be able to flee from your presence.",
     "rarity": "common",
     "flavour": "His voice cold and commanding, He shouted simply, \"Take them.\"",
     "can_echo": false
+  },
+  "draconic rampage": {
+    "display_name": "draconic rampage",
+    "desc": "Your draconic trample now deals a large amount of cutting damage to all denizens in your room. This effect has a 40 seconds second cooldown before it occur again.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "dragonsoul": {
+    "display_name": "dragonsoul",
+    "desc": "Your dragon soul ignites, veiling you in draconic armour even when not a dragon.",
+    "rarity": "rare",
+    "flavour": "It was a horrific choice, but one that was necessary: the continuation of our kin is vital to the preservation of the world.",
+    "can_echo": null
   },
   "dulkurio-ma": {
     "display_name": "Dulkurio-ma",
@@ -327,6 +404,13 @@
     "rarity": "common",
     "flavour": "Those pygmies won't know what hit them.",
     "can_echo": true
+  },
+  "earthen weights": {
+    "display_name": "earthen weights",
+    "desc": "Your stonefist defence grants you an additional 3 strength while active.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
   },
   "earthen will": {
     "display_name": "Earthen Will",
@@ -391,6 +475,13 @@
     "flavour": "His hatred burned like fire, swathing the icy loathing in his heart.",
     "can_echo": false
   },
+  "fluid form": {
+    "display_name": "fluid form",
+    "desc": "While maintaining your watery cohesion, you take 12% reduced damage and become immune to dehydration.",
+    "rarity": "uncommon",
+    "flavour": "Just go with the flow, bro.",
+    "can_echo": null
+  },
   "font of life": {
     "display_name": "Font of Life",
     "desc": "The Earthmother empowers your tree tattoo to now cure two afflictions.",
@@ -405,12 +496,40 @@
     "flavour": "The Smith worked proudly, and next to Him stood the Elder Proteus. Architect to His Labour.",
     "can_echo": false
   },
+  "frostbite": {
+    "display_name": "frostbite",
+    "desc": "Your draconic blast attack is imbued with a Blue Dragon's breath, granting it a 20% chance to afflict your foe with aeon.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "full mettle alchemist": {
+    "display_name": "full mettle alchemist",
+    "desc": "While attuned to Aspar, critical strikes will restore 2% health and 2% mana.",
+    "rarity": "rare",
+    "flavour": "It is said that Aspar first discovered the philosopher's stone, and the Cauda Pavonis has been chasing the secret ever since.",
+    "can_echo": null
+  },
   "furious speed": {
     "display_name": "Furious Speed",
     "desc": "The fury of the Skylord infuses you for 60 seconds at the start of each new ripple, granting you 30% increased damage and 5 additional celerity.",
     "rarity": "legendary",
     "flavour": "One Infinite half of the primordial Creation.",
     "can_echo": true
+  },
+  "gift of the child sorceress": {
+    "display_name": "gift of the child sorceress",
+    "desc": "Your deepfreeze spell can now be used against denizens and deals cold damage to all denizens in the location.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
+  "gravedigger": {
+    "display_name": "gravedigger",
+    "desc": "Your death cape can now stack up to 200% of your health.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
   },
   "hammer and anvil": {
     "display_name": "Hammer and Anvil",
@@ -559,6 +678,13 @@
     "flavour": "The Scrula tore apart countless Kx'khrah and matched the Rajamala in unarmed combat. But then Han-Silnar joined the battle...",
     "can_echo": false
   },
+  "liquidinous": {
+    "display_name": "liquidinous",
+    "desc": "Your balance recovers 15% faster when in a watery location.",
+    "rarity": "common",
+    "flavour": "Awkward on land, unrecognisable in sky, but perfect, oh so perfect, when in the water.",
+    "can_echo": null
+  },
   "lithe": {
     "display_name": "Lithe",
     "desc": "You are immune to the paralysis affliction.",
@@ -615,6 +741,13 @@
     "flavour": "The Imp Lord believes the young of Sapience are the future. As long as they kill all the pixies.",
     "can_echo": true
   },
+  "might of sycaerunax": {
+    "display_name": "might of sycaerunax",
+    "desc": "Your breath weapon persists and will not need to be resummoned upon use.",
+    "rarity": "rare",
+    "flavour": "He was whole once more, and all Creation felt the thunder of his roar.",
+    "can_echo": true
+  },
   "mind palace": {
     "display_name": "Mind Palace",
     "desc": "While protected by a curseward, you are immune to mental afflictions.",
@@ -663,6 +796,13 @@
     "rarity": "rare",
     "flavour": "The black of Krenindala's deepest ocean trench.",
     "can_echo": false
+  },
+  "oracle": {
+    "display_name": "oracle",
+    "desc": "The Moon grants you the gift of foresight: attacks against you have a 3% chance to fully miss.",
+    "rarity": "legendary",
+    "flavour": "For She who weaves Fate's threads, frays and knots are easily prevented.",
+    "can_echo": true
   },
   "ormyrr claws": {
     "display_name": "Ormyrr Claws",
@@ -741,6 +881,13 @@
     "flavour": "I dare you to run.",
     "can_echo": false
   },
+  "primordial will": {
+    "display_name": "primordial will",
+    "desc": "You are immune to your Elemental form's associated damage type (Fire Lords: fire, Water Lords: cold, Air Lords:asphyxiation, Earth Lords: blunt), but take 30% increased damage from the other forms' damage types.",
+    "rarity": "rare",
+    "flavour": "Have care, mortal. It is by elemental Tithe that their pathway into your soul is forged.",
+    "can_echo": null
+  },
   "prodigy": {
     "display_name": "Prodigy",
     "desc": "While wading, all of your skills are permanently transcendent.",
@@ -754,6 +901,13 @@
     "rarity": "legendary",
     "flavour": "Your fate and fame shall be an echo and a light unto eternity.",
     "can_echo": false
+  },
+  "psiblast": {
+    "display_name": "psiblast",
+    "desc": "Your draconic blast attack is imbued with a Gold Dragon's breath, granting it a 20% chance to afflict your foe with clumsiness.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
   },
   "pyrrhic victory": {
     "display_name": "Pyrrhic Victory",
@@ -783,12 +937,26 @@
     "flavour": "Life is but one half of the equation. Were it not for death, then to live would have no meaning.",
     "can_echo": false
   },
+  "reaper": {
+    "display_name": "reaper",
+    "desc": "Each kill on a denizen permanently increases your damage dealt by 1%.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
   "reckless rage": {
     "display_name": "Reckless Rage",
     "desc": "Deal 10% more damage but you can no longer benefit from shields, prismatic barriers, or blood barriers.",
     "rarity": "uncommon",
     "flavour": "Defence is for those who believe they can lose.",
     "can_echo": true
+  },
+  "resilience of lessers": {
+    "display_name": "resilience of lessers",
+    "desc": "While you are in lesserform (not a Dragon or Elemental Lord) gain an additional 20% resistance to all damage.",
+    "rarity": "common",
+    "flavour": "There's no armour here, just something underneath that won't give.",
+    "can_echo": null
   },
   "resourceful": {
     "display_name": "Resourceful",
@@ -874,6 +1042,13 @@
     "flavour": "Are you joking? That might kill me!",
     "can_echo": false
   },
+  "serendipity": {
+    "display_name": "serendipity",
+    "desc": "Your fayad heritage reduces mana costs by 25%.",
+    "rarity": "uncommon",
+    "flavour": "Faerie and Nymph. Erlking and Dryad Queen. Small yet fluid, changing yet seeking, always hunting like their father for a place in the world.",
+    "can_echo": true
+  },
   "sharp mind": {
     "display_name": "Sharp Mind",
     "desc": "Critical strikes restore 5% of your mana.",
@@ -944,6 +1119,13 @@
     "flavour": "Psion is not that threatening.",
     "can_echo": false
   },
+  "spark extant": {
+    "display_name": "spark extant",
+    "desc": "Your incantation now hits all enemy denizens in the location and costs 33% less willpower.",
+    "rarity": "rare",
+    "flavour": "Language of Dragon and Firstborn.",
+    "can_echo": null
+  },
   "star of winter": {
     "display_name": "Star of Winter",
     "desc": "Entering a new ripple invokes a memory of Lifegiver, granting you 1 additional life, up to the maximum.",
@@ -964,6 +1146,13 @@
     "rarity": "rare",
     "flavour": "What do you mean I've got the shakes?",
     "can_echo": false
+  },
+  "strength of lessers": {
+    "display_name": "strength of lessers",
+    "desc": "While you are in lesserform (not a Dragon or Elemental Lord) your constitution is increased by 5.",
+    "rarity": "common",
+    "flavour": "Dragons are built to endure. Mortals are built to keep going.",
+    "can_echo": null
   },
   "strength of the megalith": {
     "display_name": "Strength of the Megalith",
@@ -1014,6 +1203,13 @@
     "flavour": "It was easy to slake at first. Then I learned... less is never more.",
     "can_echo": true
   },
+  "thundercry": {
+    "display_name": "thundercry",
+    "desc": "Your draconic blast attack is imbued with a Silver Dragon's breath, granting it a 20% chance to afflict your foe with fear.",
+    "rarity": "unknown",
+    "flavour": "",
+    "can_echo": null
+  },
   "timeless speed": {
     "display_name": "Timeless Speed",
     "desc": "Upon killing a denizen, you have a 10% chance of gaining the blur defence for 5 seconds.",
@@ -1063,6 +1259,13 @@
     "flavour": "Lost entirely in the transformation. Overtaken by Nature in a blasphemy to Gaia Herself. Ceased to exist.",
     "can_echo": false
   },
+  "wild magic": {
+    "display_name": "wild magic",
+    "desc": "You deal 12% increased damage, but the spells invoked by your staffcast will now be out of your control.",
+    "rarity": "uncommon",
+    "flavour": "Control is overrated.",
+    "can_echo": true
+  },
   "winter's heart": {
     "display_name": "Winter's Heart",
     "desc": "Your deepfreeze spell can now be used against denizens and deals cold damage to all denizens in the location.",
@@ -1083,5 +1286,12 @@
     "rarity": "legendary",
     "flavour": "The Justice That Is.",
     "can_echo": true
+  },
+  "wyrmvenom": {
+    "display_name": "wyrmvenom",
+    "desc": "Your draconic blast attack is imbued with a Green Dragon's breath, granting it a 20% chance to afflict your foe with weakness.",
+    "rarity": "common",
+    "flavour": "Flesh sloughed off them like the skin of an overripe fruit.",
+    "can_echo": null
   }
 }
